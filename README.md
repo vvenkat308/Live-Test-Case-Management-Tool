@@ -1,4 +1,4 @@
-# Live Test
+# Live-Test-Case-Management-Tool
 Built a real-time bug tracking system that enables QA teams to log, update, and monitor defects dynamically. Integrated REST APIs and Web Sockets for instant updates, improving issue resolution efficiency
 📝 Description:
 "Developed a Real-Time QA Dashboard to help testers and developers track software defects and monitor live test executions efficiently. Built using React, TypeScript, and Vite for a fast and scalable frontend. Integrated real-time data updates via WebSockets/REST API to ensure instant visibility into test cases and defects."
